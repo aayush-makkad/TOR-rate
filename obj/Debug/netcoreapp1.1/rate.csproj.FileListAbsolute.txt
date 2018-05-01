@@ -1,0 +1,18 @@
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\bin\Debug\netcoreapp1.1\rate.deps.json
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\bin\Debug\netcoreapp1.1\rate.runtimeconfig.json
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\bin\Debug\netcoreapp1.1\rate.runtimeconfig.dev.json
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\bin\Debug\netcoreapp1.1\rate.dll
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\bin\Debug\netcoreapp1.1\rate.pdb
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\obj\Debug\netcoreapp1.1\rate.csprojResolveAssemblyReference.cache
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\obj\Debug\netcoreapp1.1\rate.AssemblyInfo.cs
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\obj\Debug\netcoreapp1.1\rate.dll
+c:\users\aayum\onedrive\documents\visual studio 2017\Projects\rate\rate\obj\Debug\netcoreapp1.1\rate.pdb
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\bin\Debug\netcoreapp1.1\rate.deps.json
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\bin\Debug\netcoreapp1.1\rate.runtimeconfig.json
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\bin\Debug\netcoreapp1.1\rate.runtimeconfig.dev.json
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\bin\Debug\netcoreapp1.1\rate.dll
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\bin\Debug\netcoreapp1.1\rate.pdb
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\obj\Debug\netcoreapp1.1\rate.csprojResolveAssemblyReference.cache
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\obj\Debug\netcoreapp1.1\rate.AssemblyInfo.cs
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\obj\Debug\netcoreapp1.1\rate.dll
+C:\Users\aayum\Desktop\major(TOR)\rate\rate\obj\Debug\netcoreapp1.1\rate.pdb
